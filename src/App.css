@@ -1,0 +1,65 @@
+@font-face {
+  font-family: "Sofia Pro";
+  src: url("./Assets/Font/sofia-pro-regular-webfont.eot") format("eot"),
+    url("./Assets/Font/sofia-pro-regular-webfont.woff") format("woff"),
+    url("./Assets/Font/sofia-pro-regular-webfont.woff2") format("woff2"),
+    url("./Assets/Font/sofia-pro-regular-webfont.ttf") format("truetype");
+}
+
+body {
+  margin: 0;
+  box-sizing: border-box;
+  font-family: "Sofia Pro";
+  background: #e5e5e5;
+}
+
+.fw-bold{
+  font-weight: bold;
+}
+
+.float-right{
+  float: right;
+}
+
+.p-1 {
+  padding: 1rem;
+}
+
+.pt-3 {
+  padding-top: 3rem;
+}
+
+.pt-2 {
+  padding-top: 2rem;
+}
+
+.pt-1 {
+  padding-top: 1rem;
+}
+
+.pb-1 {
+  padding-bottom: 1rem;
+}
+.pb-2 {
+  padding-bottom: 2rem;
+}
+
+.pb-5 {
+  padding-top: 5rem;
+}
+
+.pb-1 {
+  padding-bottom: 1rem;
+}
+
+.pb-2 {
+  padding-bottom: 2rem;
+}
+
+.fs-30 {
+  font-size: 30px;
+}
+
+.fs-12{
+  font-size: 12px;
+}
